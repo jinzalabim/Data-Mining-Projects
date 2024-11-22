@@ -9,4 +9,4 @@ Welcome to the Data Mining Projects repository! This collection contains various
 Each project directory contains detailed instructions on how to use the scripts and what data to expect. Refer to the specific project's README.md or documentation files for more information.
 
 
-Thank you for exploring my Data Mining Projects repository! We hope you find these resources useful and informative for your data mining endeavors.
+Thank you for exploring my Data Mining Projects repository! I hope you find these resources useful and informative for your data mining endeavors.
